@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#goal{
+	position:fixed;
+	top:240px;
+	background-color:yellow;
+	height:50px;
+	width:100%;
+	left:0px;
+	}
+
+.button{
+    float: right;
+}
+
+body{
+    background-image: url("../media/Background.png");
+    background-color: #333333;
+    background-color: #333;
+    background-size: 1440px 730px;
+}
+
+#songHidden{
+    visibility: hidden;
+}
